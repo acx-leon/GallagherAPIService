@@ -1,3 +1,7 @@
+Re-Upload the GallayherAPIService_Morris.zip for the correction of the typo mistake in HKLandACS --- Company class.  7/5/2021 15:57:00
+
+
+
 README:  (Morris) Conclusion
 
 成功將特定日子範圍內的event 寫入dbo.GAL_Event
